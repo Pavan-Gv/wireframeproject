@@ -12,7 +12,10 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+![Output](./pic3.jpeg)
+![Output](./pic2.jpeg)
+![Output](./pic1.jpeg)
+
 
 
 ## Result:
